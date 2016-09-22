@@ -1,0 +1,36 @@
+*vital-app-config.txt*		Define default variables
+
+Version: 1.0.0
+Author : Alisue <lambdalisue@hashnote.net>
+License: MIT license
+Support: Vim 7.4 and above
+
+
+==============================================================================
+CONTENTS				*Vital.App.Config-contents*
+
+INTRODUCTION			|Vital.App.Config-introduction|
+
+==============================================================================
+INTRODUCTION				*Vital.App.Config-introduction*
+
+*Vital.App.Config* is a plugin to define default variables.
+>
+	let s:Config = vital#vital#import('App.Config')
+	
+	" Define the following only when the variable is missing
+	" - g:vital#foo#bar#foo = 1
+	" - g:vital#foo#bar#bar = 'bar'
+	" Useful to define default variables
+	call s:Config.define('vital#foo#bar', {
+	      \ 'foo': 1,
+	      \ 'bar': 'bar',
+	      \})
+<
+
+Latest version:
+https://github.com/lambdalisue/vital-App-Config
+
+
+==============================================================================
+vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
