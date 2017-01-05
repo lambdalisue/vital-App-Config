@@ -2,10 +2,11 @@ vital-Config
 ==============================================================================
 [![Travis CI](https://img.shields.io/travis/lambdalisue/vital-Config/master.svg?style=flat-square&label=Travis%20CI)](https://travis-ci.org/lambdalisue/vital-Config)
 [![AppVeyor](https://img.shields.io/appveyor/ci/lambdalisue/vital-Config/master.svg?style=flat-square&label=AppVeyor)](https://ci.appveyor.com/project/lambdalisue/vital-Config/branch/master)
-![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-yellow.svg?style=flat-square)
-![Support Vim 7.4 or above](https://img.shields.io/badge/support-Vim%207.4%20or%20above-yellowgreen.svg?style=flat-square)
+![Version 0.1.0](https://img.shields.io/badge/version-0.1.0-yellow.svg?style=flat-square)
+![Support Vim 7.4.2137 or above](https://img.shields.io/badge/support-Vim%207.4.2137%20or%20above-yellowgreen.svg?style=flat-square)
+![Support Neovim 0.1.7 or above](https://img.shields.io/badge/support-Vim%200.1.7%20or%20above-yellowgreen.svg?style=flat-square)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
-[![Doc](https://img.shields.io/badge/doc-%3Ah%20vital---Config-orange.svg?style=flat-square)](doc/vital-app-config.txt)
+[![Doc](https://img.shields.io/badge/doc-%3Ah%20vital---Config-orange.svg?style=flat-square)](doc/Vital/Config.txt)
 
 
 Install

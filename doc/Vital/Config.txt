@@ -1,15 +1,17 @@
 *Vital/Config.txt*		Define default variables
 
-Version: 1.0.0
+Version: 0.1.0
 Author : Alisue <lambdalisue@hashnote.net>
 License: MIT license
-Support: Vim 7.4 and above
+Support: Vim 7.4.2137 and above
+Support: Neovim 0.1.7 and above
 
 
 ==============================================================================
 CONTENTS				*Vital.Config-contents*
 
 INTRODUCTION			|Vital.Config-introduction|
+
 
 ==============================================================================
 INTRODUCTION				*Vital.Config-introduction*
