@@ -1,11 +1,11 @@
-Describe App.Config
+Describe Config
   Before all
     let Guard = vital#vital#import('Vim.Guard')
   End
 
   Describe .define({prefix}, {defaults})
     Before
-      let Config = vital#vital#import('App.Config')
+      let Config = vital#vital#import('Config')
       let guard = Guard.store([
             \ 'g:vital#foo',
             \ 'g:vital#bar',
